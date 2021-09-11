@@ -27,6 +27,18 @@
 * Russian - native
 * English - A2(in progress)
 
+###### CODE EXAMPLE
+**Highest and Lowest**  
+In this little assignment you are given a string of space separated numbers, and have to return the highest and lowest number.
+```
+function highAndLow(numbers){
+    const numArr=numbers.split(' ').map(i=> +i)
+    const max = Math.max(...numArr)
+    const min = Math.min(...numArr)
+    return `${max} ${min}`
+}
+```
+
 ###### EXPERIENCE
 * 07.2021 - 08.2021 Internship at IT company Exadel
   * Development of the "Speaking" module in the web application for determining the level of knowledge of the English language.
@@ -42,4 +54,3 @@ Front-end developer
 * Francysk Skoryna Gomel State University  
   Teacher of mathematics and computer science  
   2006 - 2011
-
