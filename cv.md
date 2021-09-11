@@ -2,11 +2,11 @@
 ##### JUNIOR FRONT-END DEVELOPER
 ***
 ###### CONTACTS
-* Location: Gomel, Belarus
-* Phone: +375 44 73-999-83
-* Email: ozhurchik@gmail.com
-* GitHub: [ozhurova](https://github.com/ozhurova)
-* Linkidin: [Volha Zhurava](https://www.linkedin.com/in/volha-zhurava-906182147/) 
+* **Location**: Gomel, Belarus
+* **Phone**: +375 (44) 73-999-83
+* **Email**: ozhurchik@gmail.com
+* **GitHub**: [ozhurova](https://github.com/ozhurova)
+* **Linkidin**: [Volha Zhurava](https://www.linkedin.com/in/volha-zhurava-906182147/) 
 
 ###### ABOUT ME
 * Hard-working
@@ -17,7 +17,7 @@
 
 ###### SKILLS & ABILITIES
 * HTML 
-* CSS (SASS, SCSS),
+* CSS (SASS, SCSS)
 * JavaScript
 * Angular
 * React
@@ -33,7 +33,7 @@
 
 * Projects:
   * [Development of a web application "Constructor for ordering pizza"](https://github.com/ozhurova/Constructor_pizza) 
-  * [Development of a web game "Rock-paper scissors"](https://github.com/ozhurova/Rock-paper-scissors)
+  * [Development of a web game "Rock-paper-scissors"](https://github.com/ozhurova/Rock-paper-scissors)
 
 ###### EDUCATION
 * IT Step Computer Academy  
