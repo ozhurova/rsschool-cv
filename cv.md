@@ -2,11 +2,11 @@
 ##### JUNIOR FRONT-END DEVELOPER
 ***
 ###### CONTACTS
-* **Location**: Gomel, Belarus
-* **Phone**: +375 (44) 73-999-83
-* **Email**: ozhurchik@gmail.com
-* **GitHub**: [ozhurova](https://github.com/ozhurova)
-* **Linkidin**: [Volha Zhurava](https://www.linkedin.com/in/volha-zhurava-906182147/) 
+* __Location__: Gomel, Belarus
+* __Phone__: +375 (44) 73-999-83
+* __Email__: ozhurchik@gmail.com
+* __GitHub__: [ozhurova](https://github.com/ozhurova)
+* __Linkidin__: [Volha Zhurava](https://www.linkedin.com/in/volha-zhurava-906182147/) 
 
 ###### ABOUT ME
 * Hard-working
