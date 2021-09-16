@@ -16,6 +16,10 @@
     padding: 0 30px;
 }
 
+section {
+    padding-bottom: 50px;
+}
+
 h1 {
     font-size: 3rem;
 }
@@ -300,8 +304,12 @@ header nav {
     transition-duration: 0.3s;
 }
 
+.project h3 {
+    font-weight: 700;
+}
 .project h4 {
     color: grey;
+    font-size: 1.2rem;
     font-weight: 300;
 }
 
@@ -312,6 +320,9 @@ header nav {
     transform: translateY(-3px);
 }
 
+.project a:hover {
+    color: #000;
+}
 /* Contacts *************************** */
 
 .contacts {
@@ -386,7 +397,7 @@ footer {
 
     .nav-link {
         margin: 30px;
-        font-size: 24px;
+        font-size: 3rem;
     }
 
     .burger {
