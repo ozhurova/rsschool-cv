@@ -395,9 +395,6 @@ footer {
 }
 
 @media (max-width: 576px) {
-    .intro {
-        background-color: #00bcd4;
-    }
     .container {
         padding: 0 10px;
     }
